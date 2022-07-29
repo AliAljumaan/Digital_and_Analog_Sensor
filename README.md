@@ -67,18 +67,6 @@ Analog sensors create a continuous signal that represents a quantity. In exchang
 ```
 /*
 
-Paul Sanders
-
-January 11 2021
-
- * A simple programme that will change the intensity of
- * an LED based  * on the amount of light incident on 
- * the photo resistor.
- * 
- */
-
-
-
 //PhotoResistor Pin
 //the analog pin the photoresistor is 
                   //connected to
