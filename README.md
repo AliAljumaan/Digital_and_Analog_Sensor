@@ -1,4 +1,5 @@
 # Digital and Analog Sensor
+## Digital Sensors
 The output of digital sensors is a discrete digital voltage or signal that represents a measurement digitally. Binary sensors display one's and zero's. These sensors are known for their speed and minimal distortion. The following motion sensor is one of the example of digital sensor.
 
 ![image](https://user-images.githubusercontent.com/108624020/181852146-f4f43873-d880-44d6-a6af-966370e17f0a.png)
